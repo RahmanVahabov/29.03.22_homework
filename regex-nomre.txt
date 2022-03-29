@@ -1,0 +1,3 @@
+Daxil Edilen Mobil Nomrenin Azerbaycan Nomre Standartina Uygun Oldugnu Yoxlayan Regular Expression  (+994512373434  ))
+
+/^\+994[\d]{9}$/gm
